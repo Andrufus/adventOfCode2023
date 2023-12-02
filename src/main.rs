@@ -1,8 +1,9 @@
 #![allow(dead_code)]
 
 mod day1;
+mod day2;
 
-use crate::day1::day1::do_it;
+use crate::day2::day2::do_it;
 use std::fs::read_to_string;
 
 fn main() {
