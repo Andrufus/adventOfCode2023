@@ -3,8 +3,9 @@
 mod day1;
 mod day2;
 mod day4;
+mod day6;
 
-use crate::day4::day4::do_it;
+use crate::day6::day6::do_it;
 use std::fs::read_to_string;
 
 fn main() {
